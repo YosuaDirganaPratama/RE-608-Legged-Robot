@@ -50,7 +50,5 @@ Output:
 
 ---
 
-## Cara Menjalankan
-
-1. Install library:
-
+## Author
+ Yosua Dirgana Pratama
