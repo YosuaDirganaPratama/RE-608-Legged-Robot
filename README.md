@@ -22,9 +22,21 @@ RE-608-Legged-Robot
 
 ---
 
-## 📌 Assignment 1 — Forward & Inverse Kinematics
+## 📌 Assignment 1 — Forward Kinematic Simulation
 
-Assignment 1 berisi implementasi:
+Assignment 1 berisi simulasi gerakan **forward kinematic** dan visualisasi lintasan end-effector.
+
+### 🔹 Simulation Result 1
+![Simulation 1](Dokumentasi/gambar1.png)
+
+### 🔹 Simulation Result 2
+![Simulation 2](Dokumentasi/gambar2.png)
+
+---
+
+## 📌 Assignment 2 — Forward & Inverse Kinematics
+
+Assignment 2 berisi implementasi:
 
 - Forward Kinematics
 - Inverse Kinematics
@@ -35,18 +47,6 @@ Assignment 1 berisi implementasi:
 
 ### 🔹 Inverse Kinematics
 ![Inverse Kinematics](Dokumentasi/Inverse.png)
-
----
-
-## 📌 Assignment 2 — Trajectory Simulation
-
-Assignment 2 berisi simulasi lintasan end-effector dan visualisasi trajectory.
-
-### 🔹 Visualisasi Trajectory 1
-![Trajectory 1](Dokumentasi/gambar1.png)
-
-### 🔹 Visualisasi Trajectory 2
-![Trajectory 2](Dokumentasi/gambar2.png)
 
 ---
 
@@ -85,7 +85,8 @@ Folder `__pycache__` berisi file hasil compile otomatis dari Python dengan ekste
 - Sudut menggunakan satuan **radian**
 - Visualisasi menggunakan **matplotlib**
 - Program menampilkan **animasi real-time**
-- Trajectory digunakan untuk melihat **jalur end-effector**
+- Simulasi digunakan untuk melihat **jalur end-effector**
+- Assignment 2 digunakan untuk analisis **forward dan inverse kinematics**
 
 ---
 
