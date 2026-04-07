@@ -45,7 +45,7 @@ Output:
 ### Hasil Visualisasi
 
 <p align="center">
-  <img src="inverse.png" width="500">
+  <img src="Inverse.png" width="500">
 </p>
 
 ---
