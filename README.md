@@ -22,48 +22,47 @@ RE-608-Legged-Robot
 
 ---
 
-## 📌 Assignment
+## 📌 Assignment 1 — Forward & Inverse Kinematics
 
-- **Assignment 1** → Forward dan Inverse Kinematics
-- **Assignment 2** → Visualisasi dan simulasi trajectory
+Assignment 1 berisi implementasi:
 
----
+- Forward Kinematics
+- Inverse Kinematics
+- Visualisasi posisi end-effector
 
-## 🖼️ Hasil Visualisasi
-
-### Forward Kinematics
+### 🔹 Forward Kinematics
 ![Forward Kinematics](Dokumentasi/forward.png)
 
----
-
-### Inverse Kinematics
+### 🔹 Inverse Kinematics
 ![Inverse Kinematics](Dokumentasi/Inverse.png)
 
 ---
 
-### Visualisasi Trajectory 1
+## 📌 Assignment 2 — Trajectory Simulation
+
+Assignment 2 berisi simulasi lintasan end-effector dan visualisasi trajectory.
+
+### 🔹 Visualisasi Trajectory 1
 ![Trajectory 1](Dokumentasi/gambar1.png)
 
----
-
-### Visualisasi Trajectory 2
+### 🔹 Visualisasi Trajectory 2
 ![Trajectory 2](Dokumentasi/gambar2.png)
 
 ---
 
 ## ▶️ Cara Menjalankan Program
 
-1. Masuk ke folder assignment
-2. Jalankan file Python
-
+### Assignment 1
 ```bash
 cd "Assignment 1"
 python main.py
 ```
 
-3. Pilih menu:
-- `1` → Forward Kinematics
-- `2` → Inverse Kinematics
+### Assignment 2
+```bash
+cd "Assignment 2"
+python main.py
+```
 
 ---
 
